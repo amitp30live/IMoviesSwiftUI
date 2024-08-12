@@ -2,9 +2,8 @@
 
 This SwiftUI app uses the MVVM architecture to create a movie browsing experience with a focus on clean and scalable code. The app features a tab bar with "Home" and "Favorites" sections.
 
-![Alt text](https://github.com/user-attachments/assets/9c3945e7-5c71-44ca-ad14-7e7d4c485568)
-![Alt text](https://github.com/user-attachments/assets/69d7e5ac-a6f5-44d8-aa87-8c89a12ba803)
-
+![Alt text](https://github.com/user-attachments/assets/fe013a3d-3345-4f70-9e3c-80dd4c8edee7)
+![Alt text](https://github.com/user-attachments/assets/17290c13-d24e-4228-880d-ab833b1b201b)
 
 Key Features:
 
@@ -20,5 +19,5 @@ Technical Highlights:
 - Fallback Mechanism: Automatically switches to loading data from a local JSON file if the API response is failing.
 - Favorites Management: Uses a static class and UserDefaults to handle favorite movies across different views.
 
-![Alt text](https://github.com/user-attachments/assets/d4ca6497-2a78-41da-a78b-19be5b722615)
-![Alt text](https://github.com/user-attachments/assets/3dbe3c87-2585-46cd-a16c-d00728496573)
+![Alt text](https://github.com/user-attachments/assets/827b1535-5613-4818-ad47-cd419faf8526)
+![Alt text](https://github.com/user-attachments/assets/3d257d17-7279-4603-9403-14f8af23ecf7)
