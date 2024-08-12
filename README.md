@@ -9,7 +9,7 @@ Key Features:
 
 - Home Screen: Displays a grid of popular movies with images and titles, fetched from the IMDb API. If the API fails or takes too long, data is loaded from a local Json file.
 - Favorites Screen: Allows users to view and manage their favorite movies. Favorites are stored using UserDefaults for persistence.
-Movie Details: Shows detailed information about each movie, including a poster, title, rating, and overview, with a visually appealing layout.
+- Movie Details: Shows detailed information about each movie, including a poster, title, rating, and overview, with a visually appealing layout.
 
 Technical Highlights:
 
